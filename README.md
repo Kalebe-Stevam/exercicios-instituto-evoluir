@@ -1,1 +1,1 @@
-Exercicios do meu curso de front-end
+Exercicios do curso de front-end
